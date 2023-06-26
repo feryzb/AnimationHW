@@ -1,0 +1,39 @@
+#last {
+  height: 990px;
+  background-color: black;
+  padding-top: 50px;
+}
+.news-right {
+  display: flex;
+      
+  width: 70%;
+}
+.news-left {
+  width: 30%;
+}
+.news-left {
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.news-left p {
+  margin-bottom: 30px;
+  display: flex;
+  color: #57b8ff;
+}
+.news-left h1 {
+  margin-bottom: 30px;
+  color: white;
+  font-weight: 40;
+  font-size: 40px;
+}
+.news-left h4 {
+  color: #57b8ff;
+  margin-top: 40px;
+}
+.news-left h2 {
+  margin-top: 40px;
+  color: white;
+  font-size: 25px;
+  line-height: 35px;
+}

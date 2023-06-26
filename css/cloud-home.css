@@ -1,0 +1,57 @@
+#home {
+  height: 900px;
+  padding-top: 150px;
+  background-color: black;
+}
+
+.home-right,
+.home-left {
+  width: 50%;
+}
+
+.home-container {
+  display: flex;
+}
+
+.home-left h1 {
+  font-weight: 400;
+  font-size: 54px;
+  line-height: 74px;
+  color: white;
+}
+
+.home-left p {
+  padding-top: 100px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  color: #dfdfdfcc;
+}
+
+.home-left button {
+  line-height: 23px;
+  font-size: 20px;
+
+  margin-top: 154px;
+}
+
+.home-right {
+  margin-left: 150px;
+}
+.home-left button {
+  padding: 13px 31px;
+  background-color: transparent;
+  color: #fff;
+  border: 1px solid #fff;
+}
+
+.home-left button:hover {
+  background-color: #57b8ff;
+}
+.home-right img:hover {
+  width: 85%;
+}
+
+.home-left h1:hover {
+  font-size: 53px;
+}

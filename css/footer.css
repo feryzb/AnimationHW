@@ -1,0 +1,53 @@
+#footer {
+  height: 700px;
+  background-image: url(/images/IMAGEbackgroungyellow.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 150px;
+}
+
+.section-footer h1 {
+  padding-bottom: 50px;
+  text-align: center;
+  padding-top: 10px;
+  font-size: 40px;
+}
+.section-footer p {
+  font-size: 20px;
+
+  text-align: center;
+}
+.footer-email {
+  font-size: 50px;
+  margin-top: 150px;
+  text-align: center;
+}
+.subscribe {
+  margin-top: 20px;
+}
+.subscribe input {
+  width: 100%;
+  padding: 20px;
+  font-size: 25px;
+}
+.subscribe {
+  display: flex;
+}
+.subscribe input {
+  border-right: none;
+  border-radius: 10px 0 0 10px;
+}
+.subscribe button {
+  font-family: "orbitron";
+  padding: 30px 40px;
+  text-align: center;
+  background-color: #57b8ff;
+  border: 2px solid black;
+  border-left: none;
+  font-size: 18px;
+  line-height: 30px;
+  border-radius: 0 10px 10px 0;
+  color: white;
+}

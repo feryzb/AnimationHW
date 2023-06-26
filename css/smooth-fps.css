@@ -1,0 +1,12 @@
+#smooth-fps {
+  flex-wrap: wrap;
+  justify-content: space-between;
+  background-color: black;
+}
+.smooth-container {
+  flex-wrap: wrap;
+}
+.smoothfps {
+  width: 30%;
+  display: flex;
+}

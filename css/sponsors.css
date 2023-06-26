@@ -1,0 +1,30 @@
+#sponsors {
+  display: flex;
+  flex-wrap: wrap;
+  height: 700px;
+  background-color: #fdd04a;
+  padding-top: 100px;
+}
+.sponsors-h2p h1 {
+  text-align: center;
+  padding-top: 10px;
+  font-size: 40px;
+}
+.sponsors-h2p p {
+  font-size: 20px;
+  padding-top: 50px;
+  text-align: center;
+}
+.sponsors-logo {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  padding-top: 70px;
+  flex-wrap: wrap;
+}
+.sponsors-h2p h1:hover {
+  font-size: 50px;
+}
+.sponsors-h2p p:hover {
+  font-size: 25px;
+}

@@ -1,0 +1,82 @@
+.header {
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header-nav ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 100px;
+}
+.header-nav ul a {
+  color: #fff;
+}
+.header-nav ul a:hover {
+  color: #fac422;
+}
+
+.head-btn {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+}
+
+.head-btn button {
+  border: none;
+  background: transparent;
+  cursor: pointer;
+}
+
+.head-btn a {
+  padding: 13px 31px;
+  background-color: transparent;
+  color: #fff;
+  border: none;
+}
+.Second-Head {
+  padding-bottom: 250px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Header-Text {
+  padding-top: 200px;
+}
+
+.Hero-Image {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 200px;
+  flex-wrap: wrap;
+}
+
+.Header-Text a {
+  padding: 13px 31px;
+  background-color: transparent;
+  color: #fff;
+  border: 1px solid #fff;
+}
+
+.Header-Text a:hover {
+  background-color: #57b8ff;
+}
+.Header-Text span {
+  color: #57b8ff;
+  font-size: 16px;
+  margin-bottom: 24px;
+}
+.Header-Text h1 {
+  font-weight: 400;
+  font-size: 72px;
+  color: #ffffff;
+  margin-bottom: 45px;
+}
+
+.Header-Text p {
+  color: #999999;
+  margin-bottom: 72px;
+}

@@ -1,0 +1,67 @@
+.Second-Hero {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url(/images/IMAGEbackgroun2Section.svg);
+}
+
+.Second-Hero-sec {
+  text-align: center;
+  padding-top: 136px;
+}
+
+.Second-Hero-sec span {
+  color: #57b8ff;
+  font-size: 16px;
+  margin-bottom: 22px;
+  display: inline-block;
+}
+
+.Second-Hero-sec h1 {
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 74px;
+  color: #fff;
+  margin-bottom: 28px;
+}
+
+.Second-Hero-sec p {
+  font-size: 20px;
+  color: #999999;
+}
+
+.card {
+  padding: 32px 46px;
+  width: 642.46px;
+  background-color: rgba(255, 255, 255, 1) #ffff;
+  margin-bottom: 32px;
+  border-radius: 20px;
+}
+
+.card span {
+  color: #dad8d8;
+  font-size: 32px;
+  display: inline-block;
+}
+
+.card p {
+  font-size: 18px;
+  padding-top: 30px;
+  color: #999999;
+}
+.Second-Hero-sec h1 {
+  font-size: 50px;
+  color: white;
+  flex-wrap: wrap;
+}
+.second-hero-sec p {
+  font-size: 20px;
+  padding-top: 40px;
+}
+.MainCard {
+  padding-top: 60px;
+  padding-bottom: 130px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
